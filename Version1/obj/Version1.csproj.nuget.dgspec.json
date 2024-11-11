@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Csharp projects\\Employee\\Employee\\Version1.csproj": {}
+    "E:\\Github\\Employee\\Version1\\Version1.csproj": {}
   },
   "projects": {
-    "E:\\Csharp projects\\Employee\\Employee\\Version1.csproj": {
+    "E:\\Github\\Employee\\Version1\\Version1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Csharp projects\\Employee\\Employee\\Version1.csproj",
+        "projectUniqueName": "E:\\Github\\Employee\\Version1\\Version1.csproj",
         "projectName": "Version1",
-        "projectPath": "E:\\Csharp projects\\Employee\\Employee\\Version1.csproj",
+        "projectPath": "E:\\Github\\Employee\\Version1\\Version1.csproj",
         "packagesPath": "C:\\Users\\Kert\\.nuget\\packages\\",
-        "outputPath": "E:\\Csharp projects\\Employee\\Employee\\obj\\",
+        "outputPath": "E:\\Github\\Employee\\Version1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kert\\AppData\\Roaming\\NuGet\\NuGet.Config",

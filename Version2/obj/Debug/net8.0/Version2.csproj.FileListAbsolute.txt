@@ -1,0 +1,15 @@
+E:\Github\Employee\Version2\bin\Debug\net8.0\Version2.exe
+E:\Github\Employee\Version2\bin\Debug\net8.0\Version2.deps.json
+E:\Github\Employee\Version2\bin\Debug\net8.0\Version2.runtimeconfig.json
+E:\Github\Employee\Version2\bin\Debug\net8.0\Version2.dll
+E:\Github\Employee\Version2\bin\Debug\net8.0\Version2.pdb
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.AssemblyInfoInputs.cache
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.AssemblyInfo.cs
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.csproj.CoreCompileInputs.cache
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.sourcelink.json
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.dll
+E:\Github\Employee\Version2\obj\Debug\net8.0\refint\Version2.dll
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.pdb
+E:\Github\Employee\Version2\obj\Debug\net8.0\Version2.genruntimeconfig.cache
+E:\Github\Employee\Version2\obj\Debug\net8.0\ref\Version2.dll

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Csharp projects\\Employee\\",
+  "WorkspaceRootPath": "E:\\Github\\Employee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8227284B-CC38-44D8-B8F6-FDA59FF1E58E}|Employee\\Employee.csproj|e:\\csharp projects\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8227284B-CC38-44D8-B8F6-FDA59FF1E58E}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97C7D0F5-F057-479D-8ABE-334F595D22D4}|Version2\\Version2.csproj|e:\\github\\employee\\version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7D0F5-F057-479D-8ABE-334F595D22D4}|Version2\\Version2.csproj|solutionrelative:version2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7976873D-28A2-4D1B-BC64-CBABFE8B9093}|Version1\\Version1.csproj|e:\\github\\employee\\version1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7976873D-28A2-4D1B-BC64-CBABFE8B9093}|Version1\\Version1.csproj|solutionrelative:version1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Employee\\Version1\\Program.cs",
+              "RelativeDocumentMoniker": "Version1\\Program.cs",
+              "ToolTip": "E:\\Github\\Employee\\Version1\\Program.cs",
+              "RelativeToolTip": "Version1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:34:53.951Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp projects\\Employee\\Employee\\Program.cs",
-              "RelativeDocumentMoniker": "Employee\\Program.cs",
-              "ToolTip": "E:\\Csharp projects\\Employee\\Employee\\Program.cs*",
-              "RelativeToolTip": "Employee\\Program.cs*",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAmwHUAAAAyAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Github\\Employee\\Version2\\Program.cs",
+              "RelativeDocumentMoniker": "Version2\\Program.cs",
+              "ToolTip": "E:\\Github\\Employee\\Version2\\Program.cs*",
+              "RelativeToolTip": "Version2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T02:40:11.571Z",
+              "WhenOpened": "2024-11-11T05:03:42.158Z",
               "EditorCaption": ""
             }
           ]

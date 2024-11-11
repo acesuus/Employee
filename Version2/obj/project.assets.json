@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Csharp projects\\Employee\\Version2\\Version2.csproj",
+      "projectUniqueName": "E:\\Github\\Employee\\Version2\\Version2.csproj",
       "projectName": "Version2",
-      "projectPath": "E:\\Csharp projects\\Employee\\Version2\\Version2.csproj",
+      "projectPath": "E:\\Github\\Employee\\Version2\\Version2.csproj",
       "packagesPath": "C:\\Users\\Kert\\.nuget\\packages\\",
-      "outputPath": "E:\\Csharp projects\\Employee\\Version2\\obj\\",
+      "outputPath": "E:\\Github\\Employee\\Version2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kert\\AppData\\Roaming\\NuGet\\NuGet.Config",

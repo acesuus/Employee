@@ -1,0 +1,15 @@
+E:\Github\Employee\Version1\bin\Debug\net8.0\Version1.exe
+E:\Github\Employee\Version1\bin\Debug\net8.0\Version1.deps.json
+E:\Github\Employee\Version1\bin\Debug\net8.0\Version1.runtimeconfig.json
+E:\Github\Employee\Version1\bin\Debug\net8.0\Version1.dll
+E:\Github\Employee\Version1\bin\Debug\net8.0\Version1.pdb
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.AssemblyInfoInputs.cache
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.AssemblyInfo.cs
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.csproj.CoreCompileInputs.cache
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.sourcelink.json
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.dll
+E:\Github\Employee\Version1\obj\Debug\net8.0\refint\Version1.dll
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.pdb
+E:\Github\Employee\Version1\obj\Debug\net8.0\Version1.genruntimeconfig.cache
+E:\Github\Employee\Version1\obj\Debug\net8.0\ref\Version1.dll
